@@ -104,17 +104,17 @@ SUMMARY格式：
 # 集成总线
 
 * [集成总线](articles/esb/1-/)
-* [产品概述](articles/esb/1-/introduction.md)
-* [产品优势](articles/esb/1-/advantage.md)
-* [应用场景](articles/esb/1-/scenarios.md)
-* [基础架构](articles/esb/1-/infrastructure.md)
-* [产品历程](articles/esb/1-/course.md)
+    * [产品概述](articles/esb/1-/introduction.md)
+    * [产品优势](articles/esb/1-/advantage.md)
+    * [应用场景](articles/esb/1-/scenarios.md)
+    * [基础架构](articles/esb/1-/infrastructure.md)
+    * [产品历程](articles/esb/1-/course.md)
 * [快速入门](articles/esb/2-/)
-* [场景一：如何快速更换导航栏](articles/esb/2-/scene1.md)
-* [场景二：如何开发widget](articles/esb/2-/scene2.md)
+    * [场景一：如何快速更换导航栏](articles/esb/2-/scene1.md)
+    * [场景二：如何开发widget](articles/esb/2-/scene2.md)
 * [用户手册](articles/esb/3-/)
 * [常见问题](articles/esb/4-/)
-* [如何开发widget](articles/esb/4-/question1.md)
+    * [如何开发widget](articles/esb/4-/question1.md)
 ```
 
 
